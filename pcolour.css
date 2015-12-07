@@ -1,0 +1,16 @@
+p {
+	color: red;
+}
+
+body {
+	font-size: 14px;
+	color: purple;
+}
+
+h1{
+	text-align: center;
+	border-style: dashed;
+	border-width: 4px;
+	margin-left: 10px;
+	margin-right: 10px
+}
