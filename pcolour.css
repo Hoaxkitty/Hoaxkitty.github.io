@@ -17,6 +17,7 @@ h1{
 
 #mainContent {
 	margin-left: 150px;
+	padding-left: 25px;
 	margin-right: 75px;
 }
 
@@ -55,3 +56,16 @@ nav ul li a:hover{
 	background-color:#155;
 	color: #fff
 }
+
+@media screen and (max-width: 600px){
+	nav{
+		display: none;
+	}
+	#mainContent {
+	margin-left: 2%;
+	padding-left: 0;
+	margin-right: 2%;
+	}
+}
+
+
