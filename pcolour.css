@@ -96,6 +96,11 @@ nav ul li a:hover{
 	padding-left: 0;
 	margin-right: 2%;
 	}
+	
+	img{
+		max-width: 100%;
+		height: auto;
+	}
 }
 
 
