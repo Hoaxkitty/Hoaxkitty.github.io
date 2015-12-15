@@ -1,3 +1,31 @@
 body{
 	font-size: 18px;
+	color: white;
+	background-color: #191e22;
 }
+
+h1{
+	border-style: double;
+	border-radius: 50px;
+	border-width: 7px;
+	font-size: 40px;
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	font-family: 'Didact Gothic', arial;
+}
+
+#maincontent{
+	text-align: center;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+	border-style: double;
+	border-color: white;
+	border-width: 7px;
+}
+
